@@ -1,0 +1,21 @@
+gym_id,city,opening_date,address,gym_name
+1,Kyiv,2020-01-01,Khreshchatyk St 10,Gym01
+2,Lviv,2020-01-31,Shevchenka Ave 45,Gym02
+3,Odessa,2020-03-01,Derybasivska St 12,Gym03
+4,Kharkiv,2020-03-31,Sumska St 78,Gym04
+5,Dnipro,2020-04-30,Shevchenka Blvd 33,Gym05
+6,Vinnytsia,2020-05-30,Kozatska St 5,Gym06
+7,Poltava,2020-06-29,Kharkivska St 21,Gym07
+8,Chernihiv,2020-07-29,Peremohy Ave 14,Gym08
+9,Zhytomyr,2020-08-28,Volodymyra St 7,Gym09
+10,Sumy,2020-09-27,Centralna St 22,Gym10
+11,Rivne,2020-10-27,Sicheslavska St 18,Gym11
+12,Ternopil,2020-11-26,Heroiv St 9,Gym12
+13,Lutsk,2020-12-26,Volya St 3,Gym13
+14,Uzhhorod,2021-01-25,Lermontova St 11,Gym14
+15,Chernivtsi,2021-02-24,Kotsyubynskoho St 6,Gym15
+16,Kropyvnytskyi,2024-06-01,Shevchenka St 7,Gym16
+17,Mykolaiv,2025-01-10,Haharina Blvd 50,Gym17
+18,Kherson,,Soborna St 2,Gym18
+19,Zaporizhzhia,2021-06-24,Metallurgiv Ave 9,Gym19
+20,Ivano-Frankivsk,2025-12-01,Hrushevskoho St 12,Gym20

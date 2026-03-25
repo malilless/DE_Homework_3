@@ -1,0 +1,56 @@
+service_id,customer_id,service_type,service_price,service_usage_date,feedback_comment,feedback_rate,payment_date
+4001,18,massage,30,2023-02-21,Very relaxing,5,2023-02-21
+4002,12,nutrition_consultation,40,2023-01-16,Helpful tips,4,2023-01-17
+4003,8,massage,20,2023-02-13,Good pressure,4,2023-02-14
+4004,1,massage,25,2023-01-01,Excellent,5,2023-01-02
+4005,3,personal_training,25,2023-01-09,Felt motivated,5,2023-01-11
+4006,2,spa,20,2023-03-07,Very clean,4,2023-03-07
+4007,8,spa,40,2023-01-28,Relaxing,5,2023-01-30
+4008,18,massage,40,2023-02-01,Too short,3,2023-02-03
+4009,16,nutrition_consultation,25,2023-01-13,Useful info,4,2023-01-13
+4010,4,nutrition_consultation,30,2023-02-24,Good guidance,5,2023-02-25
+4011,14,nutrition_consultation,20,2023-03-28,Helpful,4,2023-03-28
+4012,4,personal_training,40,2023-04-04,Intense but good,5,2023-04-05
+4013,11,personal_training,25,2023-01-25,Challenging,4,2023-01-26
+4014,7,nutrition_consultation,25,2023-02-24,Informative,5,2023-02-25
+4015,6,spa,40,2023-02-01,Very nice,4,2023-02-02
+4016,3,nutrition_consultation,20,2023-01-07,Useful,4,2023-01-08
+4017,18,personal_training,20,2023-04-29,Good coach,5,2023-04-30
+4018,8,massage,40,2023-03-04,Too soft,3,2023-03-05
+4019,16,massage,40,2023-04-26,Great session,5,2023-04-28
+4020,2,massage,40,2023-01-01,Relaxing,4,2023-01-03
+4021,5,spa,35,2023-03-10,Very clean,5,2023-03-10
+4022,12,massage,30,2023-02-18,Good,4,2023-02-20
+4023,1,personal_training,50,2023-04-05,Challenging,5,2023-04-06
+4024,20,nutrition_consultation,25,2023-05-10,Helpful,4,2023-05-12
+4025,15,spa,40,2023-03-17,Relaxing,5,2023-03-18
+4026,9,massage,25,2023-02-28,Excellent,5,2023-03-01
+4027,7,personal_training,30,2023-01-15,Motivating,4,2023-01-16
+4028,10,spa,35,2023-02-05,Very good,5,2023-02-05
+4029,13,massage,40,2023-04-01,Relaxing,5,2023-04-03
+4030,17,nutrition_consultation,25,2023-03-22,Helpful,4,2023-03-23
+4031,19,personal_training,30,2023-05-01,Challenging,5,2023-05-02
+4032,11,massage,35,2023-02-14,Good session,4,2023-02-16
+4033,4,spa,40,2023-03-03,Very relaxing,5,2023-03-04
+4034,8,personal_training,30,2023-05-12,Great coach,5,2023-05-14
+4035,6,massage,25,2023-01-22,Good pressure,4,2023-01-23
+4036,2,personal_training,40,2023-04-17,Intense,5,2023-04-19
+4037,20,spa,35,2023-06-10,Relaxing,5,2023-06-12
+4038,14,massage,30,2023-04-05,Felt good,4,2023-04-06
+4039,1,spa,40,2023-05-01,Excellent,5,2023-05-03
+4040,18,nutrition_consultation,25,2023-03-10,Useful tips,4,2023-03-11
+4041,12,personal_training,30,2023-05-15,Motivating,5,2023-05-17
+4042,5,massage,25,2023-06-01,Good,4,2023-06-02
+4043,3,spa,40,2023-03-25,Relaxing,5,2023-03-27
+4044,16,personal_training,50,2023-04-28,Challenging,5,2023-04-30
+4045,7,spa,35,2023-06-05,Very clean,5,2023-06-06
+4046,9,nutrition_consultation,25,2023-05-07,Helpful,4,2023-05-09
+4047,15,massage,30,2023-04-18,Excellent,5,2023-04-19
+4048,2,spa,40,2023-03-20,Relaxing,5,2023-03-21
+4049,20,personal_training,30,2023-06-15,Good coach,5,2023-06-17
+4050,11,nutrition_consultation,25,2023-05-10,Useful,4,2023-05-11
+4051,4,massage,25,2023-06-20,Very good,5,2023-06-22
+4052,6,personal_training,30,2023-07-01,Motivating,4,2023-07-02
+4053,17,spa,35,2023-05-25,Relaxing,5,2023-05-27
+4054,13,nutrition_consultation,25,2023-06-02,Helpful,4,2023-06-03
+4055,8,massage,40,2023-06-10,Felt good,5,2023-06-12
